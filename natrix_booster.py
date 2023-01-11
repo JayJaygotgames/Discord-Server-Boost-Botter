@@ -6,9 +6,9 @@ accounts = "https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/c
 
 minConfig = "https://github.com/natrixdev/Discord-Server-Boost-Botter/tree/main/config"
 
-discord_server_config = "https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/config/server.json"
+discord_server_config = "https://discord.gg/W6v2934C"
 
-join = 'req.on("discord.gg/server.UID")'
+join = 'req.on("https://discord.gg/W6v2934C")'
 boost = 'req.on("https://discord.com/channel:config.serverID/boost:method=autoBoostbyNitro/pay/accept/boost/2/true/uid=?17814111718178564")'
 while True: 
     accounts = accounts.filter="https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/config/accounts/acc.py"
